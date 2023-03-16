@@ -1,0 +1,24 @@
+1 . 
+
+Um método é considerado sobrecarregado quando é 
+reimplementado em uma mesma classe com protótipo 
+diferente. 
+Ao contrário disto, um método é dito sobrescrito quando
+é definido tanto em sua classe base quanto em 
+uma classe derivada,
+com o mesmo protótipo, porém com implementações diferentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
